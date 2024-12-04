@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="title_activity_weather_home_screen">WeatherHomeScreen</string>
+
+    <string name="emulators_des">This Application is not Authorised to run on Emulators and Virtual Devices</string>
+    <string name="msg_pass_code">This Application is not Authorised to run on Devices, without a Unlock Lock Passcode or Pattern, Please set one to proceed</string>
+    <string name="rooted_devices_des">Your Phone is Rooted and this Application is not Authorised to run on rooted Devices</string>
+    <string name="sorry">Sorry</string>
+    <string name="icon_image_url">https:%1$s</string>
+    <string name="data_not_real_time">Hourly Forecast: Data is not in real-time.</string>
+    <string name="real_time_data">Hourly Forecast: Real-time data.</string>
+    <string name="celcius">"Celsius (°C)"</string>
+    <string name="fahrenheit">"Fahrenheit (°F)"</string>
+    <string name="metrics">Select Temperature Unit</string>
+    <string name="weather_overview">Weather Overview</string>
+    <string name="daily_conditions">Daily Conditions</string>
+    <string name="wind_label">Wind Speed</string>
+    <string name="humidity_label">Humidity Level</string>
+    <string name="retry">Try Again</string>
+    <string name="select_a_date_from_the_calendar_to_view_the_weather_details">Select a Date from the Calendar to View the Weather Details.</string>
+    <string name="ok">ok</string>
+</resources>
