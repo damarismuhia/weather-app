@@ -1,6 +1,7 @@
 package com.muhia.damaris.interview.weatherapp.data.di
 
 import android.content.Context
+import android.util.Base64
 import androidx.room.Room
 import com.muhia.damaris.interview.weatherapp.data.local.AppDatabase
 import com.muhia.damaris.interview.weatherapp.data.local.room.WeatherDao
@@ -11,6 +12,7 @@ import dagger.hilt.InstallIn
 import dagger.hilt.android.qualifiers.ApplicationContext
 import dagger.hilt.components.SingletonComponent
 import net.sqlcipher.database.SupportFactory
+import timber.log.Timber
 import javax.inject.Singleton
 
 @Module

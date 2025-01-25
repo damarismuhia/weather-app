@@ -14,7 +14,7 @@ Java_com_muhia_damaris_interview_weatherapp_WeatherApplication_getBaseURL(JNIEnv
 }
 JNIEXPORT jstring JNICALL
 Java_com_muhia_damaris_interview_weatherapp_WeatherApplication_getApiKey(JNIEnv *env, jobject thiz) {
-    return env-> NewStringUTF("0f2dd6895d0143a68c7111121240212");
+    return env-> NewStringUTF("130bb253510743dca83164137250301");
 
 }
 JNIEXPORT jstring JNICALL
